@@ -1,0 +1,31 @@
+<?php
+return [
+  'id' => "ID",
+  'request_form' => "Request Form",
+  'request_edit' => "Edit Request",
+  'request_tital' => "Tital",
+  'request_detail'=> "Detail",
+  'request_status'=> "status",
+  'equipment_id'=> "Equipment ID",
+  'contact_id'=> "Contact ID",
+  'impact_id'=> "Impact ID",
+  'priority_id'=> "Priority",
+  'equipment_name'=> "Equipment Name",
+  'equipment_form' => "Equipment Form",
+  'contact_name'=> "Contact Name",
+  'impact_name'=> "Impact leavel",
+  'priority_name' => "Priority leavel",
+  'created_by'=> "Created By",
+  'bt_add_request' => 'Add request',
+  'pageHeader' => "List request",
+  'pageHeaderTable' => "Datastable request",
+  'insert_result_topic' => "Result",
+  'add_request' => "Add Request",
+  'inserted data successfully' => "Inserted data successfully",
+  'update data successfully' => "Updated data successfully",
+  'heading_update_success' => "Update Data",
+  'incident_status' => "Status",
+  'problems_status' => "Status",
+  'Response' => "Response"
+];
+?>

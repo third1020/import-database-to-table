@@ -1,0 +1,53 @@
+<?php
+return [
+  'Home' => "หน้าแรก",
+  'user_manager' => "จัดการผู้ใช้งาน",
+  'permission' => "สิทธิการเข้าถึง",
+  'add_permission' => "เพิ่มสิทธิ์การเข้าถึง",
+  'change_permission' => "เปลี่ยนแปลงสิทธิ์การเข้าถึง",
+  'equipment_manager' => "จัดการอุปกรณ์",
+  'request_manager' => "จัดการความต้องการ",
+  'problems_manager' => "จัดการปัญหา",
+  'incident_manager' => "จัดการเหตุการณ์",
+  'contact_manager'=> "จัดการผู้ติดต่อ",
+  'impact_manager' => "จัดการผลกระทบ",
+  'priority_manager' => "จัดการความสำคัญ",
+  'report' => "รายงาน",
+  'data_list' => "รายการข้อมูล",
+  'add_user' => "เพิ่ม ผู้ใช้งาน",
+  'add_equipment' => "เพิ่มอุปกรณ์",
+  'add_request' => "เพิ่มความต้องการ",
+  'add_problems' => "เพิ่มปัญหา",
+  'add_incident' => "เพิ่มเหตุการณ์",
+  'add_contact' => "เพิ่มผู้ติดต่อ",
+  'add_impact' => "เพิ่มผลกระทบ",
+  'add_priority' => "เพิ่มความสำคัญ",
+  'report_request' => "รายงานผู้ขอใช้บริการ",
+  'report_problems' => "รายงานปัญหา",
+  'report_incident' => "รายงานอินซิเด้นท์",
+  'news_manager' => 'การจัดการความรู้',
+  'news_list' => 'หัวข้อเรื่อง',
+  'news_add' => 'เพิ่มเนื้อหา',
+  'news_type' => 'ประเภทความรู้',
+  'news_type_list' => 'หัวข้อความรู้',
+  'news_type_type_add' => 'เพิ่มเนื้อหาความรู้',
+  'equipment_type' => 'ประเภทอุปกรณ์',
+  'equipment_type_list' => 'รายการประเภทอุปกรณ์',
+  'equipment_type_type_add' => 'เพิ่มประเภทอุปกรณ์',
+  'petition' => 'คำร้อง',
+  'petition_request' => 'ความต้องการ',
+  'petition_problems' => 'ปัญหา',
+  'petition_incident' => 'เหตุการณที่เกิดขึ้น',
+  'workaround_list' => 'รายการ',
+  'workaround' => 'จัดการการแก้ไขปัญหา',
+  'add_register_equipment' => 'เพิ่มทะเบียนอุปกรณ์',
+  'list_register_equipment' =>"รายการทะเบียนอุปกรณ์",
+  'allreport' => "รายงานภาพรวมทั้งหมด",
+  'report_work' => "รายงานข้อมูลการทำงาน",
+
+
+
+
+
+];
+?>

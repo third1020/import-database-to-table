@@ -1,0 +1,6 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+writable/debugbar/debugbar_1538345376,writable/debugbar/debugbar_1538345375,writable/debugbar/debugbar_1538345331,writable/debugbar/debugbar_1538345283,writable/debugbar/debugbar_1538345266,writable/debugbar/debugbar_1538345244,writable/debugbar/debugbar_1538345167,writable/debugbar/debugbar_1538345166,writable/debugbar/debugbar_1538345150,writable/debugbar/debugbar_1538345010,writable/debugbar/debugbar_1538344976,writable/debugbar/debugbar_1538344975,writable/debugbar/debugbar_1538345319,writable/debugbar/debugbar_1538345318,writable/debugbar/debugbar_1538345292,writable/debugbar/debugbar_1538345237,writable/debugbar/debugbar_1538345216,writable/debugbar/debugbar_1538345179,writable/debugbar/debugbar_1538344946,writable/debugbar/debugbar_1538345378
+writable/debugbar/debugbar_1538680013
+writable/
+/vendor/
